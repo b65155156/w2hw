@@ -1,4 +1,5 @@
-import java.io.*;    
+import java.io.*;  
+import java.util.Scanner;  
 public class W2.2
 {
 	public static void main(String[] args)

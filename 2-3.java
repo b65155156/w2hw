@@ -1,5 +1,6 @@
 import java.io.*; 
 import java.util.*;
+import java.util.Scanner;
 public class Week2.3 
 {	
 	public static void main(String args[])
